@@ -1,0 +1,35 @@
+name: e_ceylon_unified_app
+description: Complete E-Ceylon unified payment system with User, Conductor, Owner, and Money Agent functionalities.
+
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Firebase
+  firebase_core: ^3.6.0
+  firebase_auth: ^5.3.1
+  cloud_firestore: ^5.4.4
+
+  # QR Code functionality
+  qr_flutter: ^4.1.0
+  mobile_scanner: ^3.4.1
+
+  # Permissions
+  permission_handler: ^11.0.1
+
+  # UI
+  cupertino_icons: ^1.0.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
