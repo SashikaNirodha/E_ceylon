@@ -1225,6 +1225,8 @@ class _ConductorLoginScreenState extends State<ConductorLoginScreen> {
   }
 }
 
+//conductor dashboard
+
 class ConductorDashboardScreen extends StatefulWidget {
   @override
   _ConductorDashboardScreenState createState() => _ConductorDashboardScreenState();
@@ -1286,7 +1288,7 @@ class _ConductorDashboardScreenState extends State<ConductorDashboardScreen> {
               'CONDUCTOR',
               style: TextStyle(color: Colors.white, fontSize: 16, fontWeight: FontWeight.w500),
             ),
-            centerTitle: false,
+            centerTitle: true,
             actions: [
               Icon(Icons.menu, color: Colors.white),
               SizedBox(width: 16),
