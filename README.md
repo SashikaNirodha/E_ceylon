@@ -25,11 +25,17 @@ manage fare collections via QR code generation. Additionally, the project will i
 money agent dashboard to facilitate the exchange of physical money into virtual currency, thus 
 creating an interconnected and efficient digital payment ecosystem for the entire public bus 
 transport network.  
+
 The objectives of the project are as follows: 
+
 • To develop a passenger dashboard for transfer money . 
+
 • To develop a conductor dashboard for receive money . 
-• To develop an owner dashboard to facilitate see money transfer procedure. 
+
+• To develop an owner dashboard to facilitate see money transfer procedure.
+
 • To develop a money agent dashboard for exchange physical money to virtual money.
+
 
 
 ![WhatsApp Image 2025-11-29 at 00 31 19_0f0cd85e](https://github.com/user-attachments/assets/2f31cd97-39c4-482e-9c88-54d3b9f51883)
